@@ -5,4 +5,3 @@ numpy==1.25.1
 Pillow==10.0.0
 ultralytics==8.2.86
 python-multipart
-line-bot-sdk
